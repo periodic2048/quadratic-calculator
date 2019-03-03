@@ -30,10 +30,10 @@ input {
   background-color: darkcyan;
   border-style: double;
   border-color: #04514d;
-  border-radius: 20px;
+  border-radius: 5px;
   color: #033819;
   border-width: 5px;
-  font-weight: 400;
+  font-weight: bold;
 }
 button {
   background-color: #0c6d68;
