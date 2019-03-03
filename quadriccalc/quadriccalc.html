@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="quadriccalc.css" />
+    <title>quadratic calculator</title>
+  </head>
+  <body>
+    <h1>
+      this program can solve quadratic equations.<br />
+      answer the following questions to begin.
+    </h1>
+    <h2>
+      what is your A digit?<input type="text" size ="4" id="Anum">
+    </h2>
+    <h2>
+      what is your B digit?<input type="text" size ="4" id="Bnum">
+    </h2>
+    <h2>
+      what is your C digit?<input type="text" size ="4" id="Cnum">
+    </h2>
+    <button type="button" name="formula" onclick="quadraticformula();"><strong>calculate</strong></button>
+    <h2 id="output" class="no">
+      your answer is x = __ , __ .
+    </h2>
+    <script src="quadriccalc.js"></script>
+  </body>
+</html>
