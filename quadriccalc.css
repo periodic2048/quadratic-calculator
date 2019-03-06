@@ -22,8 +22,8 @@ h2 {
   text-decoration-color: black;
   color: black;
   margin-top: 0px;
-  text-shadow: -0.5px 0.5px #727375;
   font-size: 40px;
+  margin-right: 10px;
 }
 input {
   background-color: #727375;
