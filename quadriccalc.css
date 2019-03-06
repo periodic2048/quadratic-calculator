@@ -11,7 +11,6 @@ h1 {
   text-align: center;
   font-size: 60px
   padding: 50px;
-  text-shadow: -2px 2px darkslategrey;
   border-style: inset;
   border-width: 10px;
   border-color: black;
@@ -23,11 +22,11 @@ h2 {
   text-decoration-color: black;
   color: black;
   margin-top: 0px;
-  text-shadow: -0.5px 0.5px darkslategrey;
+  text-shadow: -0.5px 0.5px #727375;
   font-size: 40px;
 }
 input {
-  background-color: darkslategrey;
+  background-color: #727375;
   border-style: double;
   border-color: black;
   border-radius: 5px;
@@ -36,7 +35,7 @@ input {
   font-weight: bold;
 }
 button {
-  background-color: darkslategrey;
+  background-color: #727375;
   border-style: double;
   border-color: black;
   border-radius: 20px;
