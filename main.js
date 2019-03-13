@@ -12,7 +12,7 @@ function quadraticformula() {
         var stepthreeb = ((b ** 2) - (4 * a * c)) ** .5
         var stepfour = 2 * a
         var stepfivea = -b + stepthreeb
-        var stepfiveb = -c - stepthreeb
+        var stepfiveb = -b - stepthreeb
         var stepsixa = stepfivea / stepfour
         var stepsixb = stepfiveb / stepfour
         output.textContent = "your answer is x = " + stepsixa + " , " + stepsixb;
