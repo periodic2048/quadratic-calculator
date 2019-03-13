@@ -41,7 +41,10 @@ button {
     border-radius: 20px;
     border-width: 5px;
     color: black;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
+    margin-right: 10px;
+    margin-left: 25px;
+    margin-top: 14px;
 }
 .no {
     text-decoration: none;
@@ -52,6 +55,6 @@ canvas {
     border-style: inset;
     border-width: 5px;
     margin-right: 75px;
-    margin-top: -280px;
+    margin-top: -240px;
     padding: 30px;
 }
